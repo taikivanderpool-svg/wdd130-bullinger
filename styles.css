@@ -1,0 +1,21 @@
+header{
+    background-color: #FAF7F2;
+}
+
+nav{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: #001F54;
+    height: 50px;
+}
+
+nav a{
+    font-size: 30px;
+    width: 20%;
+    text-align: center;
+}
+
+nav a:hover{
+    background-color: #7D9D7C;
+
+}
