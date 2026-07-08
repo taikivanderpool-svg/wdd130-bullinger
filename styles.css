@@ -82,6 +82,13 @@ header h1{
 }
 
 
+hr{
+    border: solid #E8D587 1px;
+}
+
+#paragraph_2_3{
+    text-align: center;
+}
 
 
 footer{
